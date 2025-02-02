@@ -503,7 +503,7 @@ img {
   margin-bottom: 16px;
 }
 
-.input-footer::placeholder {
+.footer-lable::placeholder {
   font-weight: 400;
   font-size: 12px;
   line-height: 2;
@@ -534,7 +534,7 @@ img {
   justify-content: center;
   align-items: center;
   font-size: 16px;
-  line-height: 500;
+  font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
@@ -744,7 +744,7 @@ img {
 }
 
 .checkbox-input:checked + .checkbox-label span {
-  fill: #f4f4f4;
+  fill: #f4f4fd;
   background-color: #404bbf;
   border: none;
 }
